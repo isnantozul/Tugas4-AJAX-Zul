@@ -1,7 +1,7 @@
 # Tugas4-RSBK-AJAX
-Tugas4 
-RSBK Kelas B  
-Muhammad Zulfikar Isnanto (211201140011)
+* Tugas4 
+* RSBK Kelas B  
+* Muhammad Zulfikar Isnanto (211201140011)
 
 # SS Ajax-Examples
 ![Gambar1](https://github.com/isnantozul/Tugas4-AJAX-Zul/blob/master/SS%20Ajax%20Zulfikar/Ajax1.PNG)
